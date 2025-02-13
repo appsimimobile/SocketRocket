@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "SRSecurityPolicy.h"
+#import <ConnectInAppThirdParty/SRSecurityPolicy.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
